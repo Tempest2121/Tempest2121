@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Tempest,
-real name being Shehraan 
+real name being Shehraan.
 I am a 13yr old Programming Student from Haryana, India.
+
+---
+
+---
 
 <!--
   Extra  Details 
